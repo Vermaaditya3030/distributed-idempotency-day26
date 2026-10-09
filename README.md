@@ -29,7 +29,7 @@ git init
 git add .
 git commit -m "Day 26: idempotency API"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/distributed-idempotency-day26.git
+git remote add origin https://github.com/Vermaaditya3030/distributed-idempotency-day26.git
 git push -u origin main
 ```
 
